@@ -1,5 +1,4 @@
-# -CursoWebModerno
- JavaScripty * ES9 * Node * Express * jQuery * Bootstrap * Ajax * React * HTML * CSS * Gulp * Webpack (SASS) * MongoDB * MySQL * VueJS * Angular 9
+
 🎓 Curso-Web-Moderno-com-JavaScript-Completo-2020
 Arquivos do Curso Web Moderno com JavaScript Completo 2020 da plataforma Udemy
 
