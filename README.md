@@ -1,17 +1,19 @@
 
-🎓 Curso-Web-Moderno-com-JavaScript-Completo-2020
-Arquivos do Curso Web Moderno com JavaScript Completo 2020 da plataforma Udemy
+🎓 Curso-Web-Moderno-com-JavaScript-Completo-2021
+Arquivos do Curso Web Moderno com JavaScript Completo 2021 da plataforma Udemy
 
-# :mortar_board: Curso-Web-Moderno-com-JavaScript-Completo-2020 
-Arquivos do Curso Web Moderno com JavaScript Completo 2020 da plataforma Udemy
+# :mortar_board: Curso-Web-Moderno-com-JavaScript-Completo-2021 
+Arquivos do Curso Web Moderno com JavaScript Completo 2021 da plataforma Udemy
 
 ## :round_pushpin: Conteúdo do curso:
 ### :open_file_folder: Seção 01 - Introdução
   - 01 - Visão Geral do Curso
-  - 02 - Assine o Nosso Canal
-  - 03 - Canal Youtube & Repositório do Curso
+  - 02 - Repositório do Curso
+  - 03 - Boas Práticas do suporte
   - 04 - Importância dos Fundamentos
   - 05 - Por que aprender JavaScript?
+  - 06 - Usando o Termianl
+  - 07 - Terminais
 
 ### :open_file_folder: Seção 02 - Configuração do Ambiente
   - 01 - Instalação Node (Windows/Mac)
