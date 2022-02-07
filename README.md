@@ -585,5 +585,5 @@ Arquivos do Curso Web Moderno com JavaScript Completo 2021 da plataforma Udemy
 
 ### :open_file_folder: Seção 32 - Conclusão
 
-01 - Muito Obrigado!
+01 - Muito Obrigado!!
 
