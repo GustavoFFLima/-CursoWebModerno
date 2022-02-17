@@ -13,7 +13,7 @@ Arquivos do Curso Web Moderno com JavaScript Completo 2021 da plataforma Udemy
   - 04 - Importância dos Fundamentos
   - 05 - Por que aprender JavaScript?
   - 06 - Usando o Termianl
-  - 07 - Terminais
+  - 07 - Terminais!
 
 ### :open_file_folder: Seção 02 - Configuração do Ambiente
   - 01 - Instalação Node (Windows/Mac)
